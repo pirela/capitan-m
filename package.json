@@ -1,7 +1,7 @@
 {
-  "name": "api-mariani",
+  "name": "api-capitan-m",
   "version": "1.0.0",
-  "description": "Api mariani",
+  "description": "api-capitan-m",
   "main": "dist/index.js",
   "scripts": {
     "build": "babel src -d dist",
